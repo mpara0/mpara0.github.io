@@ -51,7 +51,7 @@ html {
 	border-radius: 50%;
 	height: 200px;
 	width: 200px;
-	transform: rotate(180deg);
+	transform: rotate(90deg);
 }
 
 h1 {
